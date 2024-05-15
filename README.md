@@ -1,4 +1,4 @@
-# Bresenham Line Algorithm Demo
+# Bresenham's Line Algorithm Demo
 - This shader showcases an interactive demonstration of the Bresenham's Line Algorithm, featuring captivating visualizations. Users can dynamically select the starting and ending pixels, witnessing real-time updates as the line is drawn pixel by pixel.
 - Implemented with GLSL on ShaderToy platform.
 
